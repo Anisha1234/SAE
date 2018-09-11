@@ -14,11 +14,11 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #6c757d;
 }
 
 a:hover {
-  color: #fec503;
+  color: #4E4AC9;
 }
 
 .text-primary {
@@ -71,13 +71,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #3399ff;
+  border-color: #4E4AC9;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #4E4AC9 !important;
+  border-color: #4E4AC9 !important;
   color: white;
 }
 
@@ -129,11 +129,11 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #fec503; 
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-size: 56%;
+  font-size: 70%;
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
@@ -142,7 +142,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #3399ff;
 }
 
 @media (min-width: 992px) {
